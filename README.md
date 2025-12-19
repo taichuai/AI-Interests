@@ -1,30 +1,7 @@
 # AI-Interests 🤖🌟
 
-[English](#english) | [中文](#chinese)
+  [中文](#chinese) | [English](#english) 
 
----
-
-<a name="english"></a>
-## English
-
-### 🎯 Overview
-A curated list of awesome AI-related repositories, tools, and projects that I find interesting or impactful. This repository serves as a personal knowledge base and a quick-reference guide for the rapidly evolving world of Artificial Intelligence.
-
-### 🗂️ Categories
-* **🎙️ Voice & Audio:** Text-to-Speech (TTS), Voice Cloning, Music Generation.
-* **🎥 Video Generation:** Text-to-Video, Video Editing, Digital Humans.
-* **🛠️ Interesting AI Tools:** Productivity boosters, browser extensions, and niche utilities.
-* **🚀 Innovative Projects:** LLM applications, autonomous agents, and open-source models.
-
-### 🌟 Featured Repositories
-| Project Name | Category | Description | Link |
-| :--- | :--- | :--- | :--- |
-| **Example-AI** | Voice | High-quality open-source TTS engine. | [View Repo](#) |
-| **Video-Gen-Pro** | Video | Creating cinematic videos from simple prompts. | [View Repo](#) |
-
----
-
-<a name="chinese"></a>
 ## 中文
 
 ### 🎯 项目简介
@@ -33,14 +10,14 @@ A curated list of awesome AI-related repositories, tools, and projects that I fi
 ### 🗂️ 类别划分
 * **🎙️ 语音与音频：** 文本转语音 (TTS)、声音克隆、音乐生成。
 * **🎥 视频生成：** 文本生成视频、视频编辑、数字人技术。
-* **🛠️ 有趣的 AI 工具：** 提高生产力的工具、浏览器扩展及各类小众实用工具。
+* **🛠️ AI 工具：** 提高生产力的工具、浏览器扩展及各类小众实用工具。
 * **🚀 创新项目：** 大语言模型 (LLM) 应用、自主智能体 (Agents) 以及开源模型。
 
 ### 🌟 精选仓库展示
 | 项目名称 | 类别 | 简介 | 链接 |
 | :--- | :--- | :--- | :--- |
-| **Example-AI** | 语音 | 高质量开源文本转语音引擎。 | [查看仓库](#) |
-| **Video-Gen-Pro** | 视频 | 通过简单的提示词生成电影级视频。 | [查看仓库](#) |
+| **UniVA** | 创新项目 | UniVA（通用视频代理）是一个开源的下一代视频通用系统，使你能够通过自然语言指令规划、作曲和制作视频。UniVA 作为你的智能视频导演，通过一个主动且有代理感的工作流程与你一起迭代镜头和故事。 | [https://github.com/univa-agent/univa](https://github.com/univa-agent/univa) |
+
 
 ---
 
